@@ -4,7 +4,7 @@ kind: Kustomization
 
 images:
 - name: ghcr.io/kkingkill/argo-cd-demo/argo-cd-demo
-  newTag: 6a7f6c1fe24e52d9d31bd7fb7473fbaa44af11a3
+  newTag: d6a7badec9c2fbf395a11a600f302972fbf9fee9
 - name: ghcr.io/tao12345666333/argo-cd-demo/argo-cd-demo
   newTag: 93d0e7e591c3c4739f5f4d31b8f9a8ace8e74dfe
 
