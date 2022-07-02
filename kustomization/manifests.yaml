@@ -19,7 +19,7 @@ metadata:
     app: argo-cd-demo
   name: argo-cd-demo
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: argo-cd-demo
